@@ -11,7 +11,6 @@
     $donuts = $_POST['donuts'];
     //$donuts = $_GET['donuts'];
     $sweetComb = $_POST['sweetCombs'];
-    //$sweetComb = $_GET['sweetComb'];
 
     echo "<h2>$donuts $sweetComb</h2>";
   ?>
