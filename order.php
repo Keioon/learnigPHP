@@ -11,7 +11,7 @@
     $donuts = $_POST['donuts'];
     //$donuts = $_GET['donuts'];
     $sweetComb = $_POST['sweetCombs'];
-    //1
+    //12
     echo "<h2>$donuts $sweetComb</h2>";
   ?>
 </body>
